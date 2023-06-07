@@ -1,3 +1,3 @@
 ## Contributors
 
-- Karen Cristina 
+-Karen Cristina
