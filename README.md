@@ -1,3 +1,4 @@
 ## Contributors
 
--Karen Cristina
+- Denise Tech Lead
+- Karen Cristina
